@@ -1,0 +1,59 @@
+{
+    "quote_id": "5069d7b3-96a7-4b8c-b0d4-c706628134c6",
+    "generated_at": "2025-07-13T15:42:09.237635",
+    "city": "Marseille",
+    "area_m2": 4,
+    "tasks": [
+        {
+            "task": "plumbing",
+            "estimated_time_hr": 4,
+            "material_cost": 160,
+            "labor_cost": 140,
+            "vat_rate": 0.1,
+            "margin_rate": 0.15,
+            "total_price": 379.5
+        },
+        {
+            "task": "toilet_installation",
+            "estimated_time_hr": 2,
+            "material_cost": 120,
+            "labor_cost": 70,
+            "vat_rate": 0.1,
+            "margin_rate": 0.15,
+            "total_price": 240.35
+        },
+        {
+            "task": "vanity_installation",
+            "estimated_time_hr": 2,
+            "material_cost": 250,
+            "labor_cost": 70,
+            "vat_rate": 0.1,
+            "margin_rate": 0.15,
+            "total_price": 404.8
+        },
+        {
+            "task": "painting",
+            "estimated_time_hr": 1.5,
+            "material_cost": 20,
+            "labor_cost": 52.5,
+            "vat_rate": 0.1,
+            "margin_rate": 0.15,
+            "total_price": 91.71
+        },
+        {
+            "task": "floor_tiling",
+            "estimated_time_hr": 2.5,
+            "material_cost": 100,
+            "labor_cost": 87.5,
+            "vat_rate": 0.1,
+            "margin_rate": 0.15,
+            "total_price": 237.19
+        }
+    ],
+    "total_estimate": 1353.55,
+    "confidence_score": 0.9,
+    "feedback": {
+        "too_expensive": false,
+        "message": "Estimate looks budget-friendly."
+    }
+}

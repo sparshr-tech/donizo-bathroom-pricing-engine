@@ -1,0 +1,17 @@
+{
+    "ceramic_tile": {
+        "price_per_m2": 25
+    },
+    "paint": {
+        "price_per_m2": 5
+    },
+    "toilet": {
+        "unit_price": 120
+    },
+    "vanity": {
+        "unit_price": 250
+    },
+    "plumbing": {
+        "price_per_hour": 40
+    }
+}
