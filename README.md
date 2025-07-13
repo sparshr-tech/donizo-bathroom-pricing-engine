@@ -20,42 +20,11 @@ The engine outputs a full structured quote in JSON, including:
 
 ---
 
-## 📁 Project Structure
-
-
-
 ## 🔧 Tech Stack
-- Python 3.x
-- JSON
+
+- Python 3.x  
+- JSON  
 - Modular logic per file
 
-## 🧾 How to Run
+---
 
-```bash
-python pricing_engine.py
-
-## ➡ Output will be saved to:
-
-```bash
-output/sample_quote.json
-
-## 🧾 🧪 Run Tests
-
-```bash
-python -m unittest tests/test_logic.py
-
-
-## 🔧 Assumptions & Logic
-Transcript Parsing: Simple keyword matching per task
-
-City-Based Pricing: Labor rate varies by city
-
-Material Costs: Pulled from materials.json
-
-Margin + VAT: 15% margin; VAT based on task type
-
-Bonus: Feedback message if estimate > €1500
-
-## 👤 Author
-Built with care for Donizo
-GitHub: @sparshr-tech
